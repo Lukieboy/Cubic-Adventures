@@ -35,7 +35,7 @@
 }
 
 h1{
-    font-size:15vw;
+    font-size:10vw;
     font-family: 'Amatic SC';
 }
 p{
@@ -83,3 +83,7 @@ footer{
 .container{
     margin-bottom:30px;
 }
+
+/* .centered{
+    font-size:
+} */
