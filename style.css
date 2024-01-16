@@ -87,3 +87,10 @@ footer{
 /* .centered{
     font-size:
 } */
+
+
+.contact{
+    background-color:rgba(14, 178, 207, 0.271);
+    padding-top:10px;
+    padding-bottom:10px;
+}
